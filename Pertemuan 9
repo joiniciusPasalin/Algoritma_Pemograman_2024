@@ -1,0 +1,9 @@
+# Meminta pengguna untuk memasukkan panjang sisi
+Sisi = float(input("Masukkan panjang sisi kubus: "))
+
+
+# Menghitung Volume kubus
+Volume = Sisi ** 3 
+
+# Menampilkan hasil
+print("Volume kubus adalah: ", Volume)
